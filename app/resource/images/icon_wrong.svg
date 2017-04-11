@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_wrong</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-208.000000, -58.000000)" fill="#F2572D">
+            <path d="M218.712168,68.09337 L218.093538,68.71217 L214.999965,65.61859 L211.906462,68.71217 L211.287341,68.09337 L214.380914,64.99972 L211.287341,61.90614 L211.906462,61.28734 L214.999965,64.38092 L218.093538,61.28734 L218.712168,61.90614 L215.618596,64.99972 L218.712168,68.09337 Z M214.999965,58 C211.134259,58 208,61.13383 208,64.99972 C208,68.86568 211.134259,72 214.999965,72 C218.866161,72 222,68.86568 222,64.99972 C222,61.13383 218.866161,58 214.999965,58 L214.999965,58 Z" id="icon_wrong"></path>
+        </g>
+    </g>
+</svg>
