@@ -16,3 +16,9 @@
 │   └── index.html           // 项目入口文件
 </pre>
 
+### 运行
+
+    npm install 
+    npm run start
+    
+访问 [页面地址](http://localhost:9000/)
