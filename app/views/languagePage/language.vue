@@ -8,6 +8,8 @@
 <template>
     <div id="languageTestPage">
         <h3>多语言国际化测试页面</h3>
+        <p v-for="item in detectItem">a</p>
+        <button @click="aaa">ssss</button>
         <ol>
             <li>t{姓名}</li>
             <li>t{性别}</li>
@@ -16,3 +18,35 @@
         </ol>
     </div>
 </template>
+
+<script>
+    export default{
+        route: {
+            data(){
+
+            }
+        },
+        data(){
+            return {
+                "detectItemNo": 0,
+                "detectItem": {}
+            }
+        },
+        methods: {
+            //点击添加条件
+            aaa(){
+                this.detectItemNo ++ ;
+                let key = `item${this.detectItemNo}`;
+
+                this.$set(this.detectItem,key,{});
+                console.log(this.detectItem);
+            },
+            //点击删除
+            handleDelete(){
+
+            }
+        },
+        components: {
+        }
+    }
+</script>
